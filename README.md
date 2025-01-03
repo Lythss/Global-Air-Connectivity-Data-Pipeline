@@ -1,9 +1,5 @@
 # 🌍 Global Air Connectivity Data Pipeline
 
-![Talend Logo]([https://upload.wikimedia.org/wikipedia/commons/4/45/Talend_Logo.png](https://view.svg.zone/))  
-![Database Icon](https://upload.wikimedia.org/wikipedia/commons/8/87/Database_icon.svg)  
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
-
 ## ✈️ **Project Description**
 
 The **Global Air Connectivity Data Pipeline** is a data integration project designed for a travel analytics startup. Its goal is to analyze global air links and better understand connectivity between airports worldwide.
