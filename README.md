@@ -1,6 +1,6 @@
 # 🌍 Global Air Connectivity Data Pipeline
 
-![Talend Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Talend_Logo.png)  
+![Talend Logo]([https://upload.wikimedia.org/wikipedia/commons/4/45/Talend_Logo.png](https://view.svg.zone/))  
 ![Database Icon](https://upload.wikimedia.org/wikipedia/commons/8/87/Database_icon.svg)  
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
 
