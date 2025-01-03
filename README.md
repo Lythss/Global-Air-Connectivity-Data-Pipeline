@@ -56,6 +56,7 @@ Using **Talend Studio**, this pipeline automates the ingestion, cleaning, transf
 │   ├── Joined-Flights.csv        # Final enriched route data
 ├── LICENSE                       # MIT License
 ├── README.md                     # Documentation
+```
 ## 🔧 Setup and Installation
 
 ### Requirements
@@ -68,7 +69,7 @@ Using **Talend Studio**, this pipeline automates the ingestion, cleaning, transf
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/global-air-connectivity-data-pipeline.git
-
+   ```
 ## 🚀 Project Steps
 
 1. **Open the project** in Talend Studio.
