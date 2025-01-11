@@ -33,7 +33,7 @@ Using **Talend Studio**, this pipeline automates the ingestion, cleaning, transf
 - Outputs enriched data to `Joined-Flights.csv`.
 
 ### **4. Database Integration**
-- Loads the final enriched data into a database table called `flights_enriched`.
+- Loads the final enriched data into a database table called `fl_table`.
 - Handles database errors gracefully with logging and error handling.
 
 ---
