@@ -66,6 +66,51 @@ Using **Talend Studio**, this pipeline automates the ingestion, cleaning, transf
    ```bash
    git clone https://github.com/your-username/global-air-connectivity-data-pipeline.git
    ```
+
+2. Extract the tar file containing project assets:
+
+```bash
+tar -xvf Flight_Pipeline_Project.tar -C /path/to/your/project
+```
+
+Replace /path/to/your/project with the directory where the files should be extracted.
+
+
+
+
+
+---
+
+🚀 Project Steps
+
+1. Open the project in Talend Studio.
+
+
+2. Extract the tar file:
+
+Ensure Flight_Pipeline_Project.tar contains all required configurations, datasets, or other dependencies.
+
+Use the command provided above to extract it to the appropriate project directory.
+
+
+
+3. Configure context variables for your environment:
+
+context.inputDirectory
+
+context.outputDirectory
+
+context.db_host, context.db_user, etc.
+
+
+
+4. Run each job sequentially in the proper order to complete the pipeline.
+
+
+
+This Markdown structure is formatted for use in a README file or similar documentation.
+
+
 ## 🚀 Project Steps
 
 1. **Open the project** in Talend Studio.
