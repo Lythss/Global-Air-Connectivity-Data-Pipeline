@@ -90,13 +90,13 @@ Replace /path/to/your/project with the directory where the files should be extra
 
 ## 🌟 Outputs
 
-- **Cleaned-Airports.csv**:  
+- **Cleaned-Air.csv**:  
   Contains validated airport data with no missing coordinates or IATA codes.
 
-- **Rejected-Rows.csv**:  
+- **Rejected-Air.csv**:  
   Includes rows with missing or invalid data.
 
-- **Joined-Flights.csv**:  
+- **JoinedAir.csv**:  
   Enriched air route data with airport details.
 
 ---
