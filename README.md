@@ -70,7 +70,7 @@ Using **Talend Studio**, this pipeline automates the ingestion, cleaning, transf
 2. Extract the tar file containing project assets:
 
    ```bash
-   tar -xvf Flight_Pipeline_Project.tar -C /path/to/your/project
+   tar -xvf Flights.tar -C /path/to/your/project
    ```
 
 Replace /path/to/your/project with the directory where the files should be extracted.
